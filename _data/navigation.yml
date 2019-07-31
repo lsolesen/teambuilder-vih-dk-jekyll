@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Aktiviteter"
+    url: /aktiviteter/
+  - title: "Blog"
+    url: /blog/
+  - title: "Inspiration"
+    url: /inspiration/
+  - title: "Om"
+    url: /om/
