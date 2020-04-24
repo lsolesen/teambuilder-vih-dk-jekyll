@@ -6,9 +6,7 @@ language: da
 
 categories: 
 tags: 
-aim: "Opgaven som holdene her bliver stillet over for, tvinger holdene til være omhyggelige i deres beskrivelser. Enkelte på holdene kan måske se sig nødsaget til at ændre i deres beskrivelser, for at gøre dem mere forståelige for modtageren. Dette giver de enkelte elever indblik i hvordan vi opfatter og forstår ting forskelligt.
-
-"
+aim: "Opgaven som holdene her bliver stillet over for, tvinger holdene til være omhyggelige i deres beskrivelser. Enkelte på holdene kan måske se sig nødsaget til at ændre i deres beskrivelser, for at gøre dem mere forståelige for modtageren. Dette giver de enkelte elever indblik i hvordan vi opfatter og forstår ting forskelligt."
 instruction: ""
 preparation: ""
 preparation_time: ""
