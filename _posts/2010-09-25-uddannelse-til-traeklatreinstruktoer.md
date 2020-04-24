@@ -1,5 +1,6 @@
 ---
 title: "Uddannelse til træklatreinstruktør"
+permalink: /uddannelse-til-træklatreinstruktør/
 redirect_from: /content/uddannelse-til-træklatreinstruktør
 language: da
 categories:

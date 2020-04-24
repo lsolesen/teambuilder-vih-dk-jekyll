@@ -1,5 +1,6 @@
 ---
 title: "Hvornår er teambuilding effektivt?"
+permalink: /hvornår-er-teambuilding-effektivt/
 redirect_from: /content/hvornår-er-teambuilding-effektivt
 language: da
 categories:

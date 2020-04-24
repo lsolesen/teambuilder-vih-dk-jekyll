@@ -1,5 +1,6 @@
 ---
 title: "Typer af teambuildingsøvelser"
+permalink: /typer-af-teambuildingsøvelser/
 redirect_from: /content/typer-af-teambuildingsøvelser
 language: da
 categories:
