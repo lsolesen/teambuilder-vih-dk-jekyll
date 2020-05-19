@@ -32,3 +32,5 @@ Hvordan holder man et godt møde. Skriv til {{ site.email }}, hvis du gerne vil 
 
 - Moving Minds: Mødetrekanten, fra: www.movingminds.dk/sites/forside/vaerktoejskassen/faciliteringsmetoder/moedediamanten.aspx
 - http://lifehacker.com/how-to-have-a-meeting-that-isnt-a-complete-waste-of-tim-1570834406
+
+{% include feature_row type="left" %}

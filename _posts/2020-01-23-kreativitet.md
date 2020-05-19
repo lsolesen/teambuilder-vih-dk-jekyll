@@ -60,31 +60,31 @@ Deltagerne skriver hver især deres ideer ned på en post-it. En ide pr. post-it
 
 Når tiden er gået præsenterer alle deltagerne deres ideer - og facilitatoren hænger ideerne op så alle kan se ideerne.
 
-http://innovationsguiden.dk/brugere/ide-og-konceptudvikling/brainstorm
+[Brainstorm](http://innovationsguiden.dk/brugere/ide-og-konceptudvikling/brainstorm)
 
 Ideku - brainstorm matrix
 
-![Ideku er udviklet af Finn Kollerup fra _alt for kreativ_](images/ideku.jpg)
+![Ideku er udviklet af Finn Kollerup fra _alt for kreativ_](/assets/images/ideku.jpg)
 
 Metoden er udviklet af _alt for kreativ_. Du skal bruge et stort bræt med 9 x 9 felter og en masse Post-its. 
 
-Reglerne kan findes her: http://www.alt4kreativ.dk/UserFiles/file/PDF/IDEKU-instruktion_2sidet-Version01.pdf
+Reglerne kan findes her: [Ideku](http://www.alt4kreativ.dk/UserFiles/file/PDF/IDEKU-instruktion_2sidet-Version01.pdf)
 
-Mini-manual kan findes her: http://www.alt4kreativ.dk/UserFiles/file/PDF/Arbejdsbog_-_Ideku_proces.pdf
+Mini-manual kan findes her: [Ideku](http://www.alt4kreativ.dk/UserFiles/file/PDF/Arbejdsbog_-_Ideku_proces.pdf)
 
-http://innovationsguiden.dk/brugere/ide-og-konceptudvikling/brainstormingmatrix
+[Brainstorm Matrix](http://innovationsguiden.dk/brugere/ide-og-konceptudvikling/brainstormingmatrix){: .btn .btn--large .btn--info }
 
 ## Udvælgelse af ideerne
 
 ### Clustering
 
-http://innovationsguiden.dk/brugere/ide-og-konceptudvikling/prioteringsmatrix
+[Prioriteringsmatrix](http://innovationsguiden.dk/brugere/ide-og-konceptudvikling/prioteringsmatrix){: .btn .btn--large .btn--success }
 
-http://innovationsguiden.dk/brugere/analyse/personas
+[Personas](http://innovationsguiden.dk/brugere/analyse/personas){: .btn .btn--large .btn--danger }
 
 ## Modning af ideerne
 
-http://innovationsguiden.dk/brugere/ide-og-konceptudvikling/idemodning
+[Innovationsguidens Modning af ideerne](http://innovationsguiden.dk/brugere/ide-og-konceptudvikling/idemodning){: .btn .btn--large .btn--danger }
 
 ## Cirkelmetoden
 
@@ -98,7 +98,7 @@ Efter fire minutter roterer ideerne videre til den næste ved borde, som uddyber
 
 Ideerne roterer indtil den kommer tilbage til den, der oprindeligt havde ideen. Vedkommende opsummerer og beskriver ideen så præcist som muligt.
 
-http://midtlab.dk/v%C3%A6rkt%C3%B8jskassen/handlekort/cirkelmetoden
+(Cirkelmetoden)[http://midtlab.dk/v%C3%A6rkt%C3%B8jskassen/handlekort/cirkelmetoden]{: .btn .btn--large .btn--info }
 
 ## Afprøvning af ideen
 
@@ -106,7 +106,7 @@ Beskrivelse af ideerne
 
 ## U-teori
 
-![](images/u-teori.jpg)
+![](/assets/images/u-teori.jpg)
 
 ## Referencer
 
@@ -115,3 +115,5 @@ Du kan finde en masse ideer til kreativitet på innovationsguiden.dk.
 - Due, Brian (2011): "Kreativitetens DNA", fra www.kommunikationsforum.dk/artikler/kreativitet-ideudvikling-innovation
 - Due, Brian (2010): "Bedre brainstorming", fra www.kommunikationsforum.dk/artikler/bedre-brainstorming
 - Nielsen, Jan Hein (2009): Ideudvikling, Væksthus Midtjylland
+
+{% include feature_row type="left" %}

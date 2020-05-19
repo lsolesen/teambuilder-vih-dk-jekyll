@@ -26,5 +26,5 @@ feature_row:
 
 Hvordan laver du en målsætning? Skriv til {{ site.email }}, hvis du gerne vil læse artiklen. Materialet er skrevet, men ikke lagt op endnu.
 
-- Styrker og afklaring → kortlink.dk/fmq9
-- Målsætning → kortlink.dk/fmq8
+- Styrker og afklaring → [kortlink.dk/fmq9](http://kortlink.dk/fmq9)
+- Målsætning → [kortlink.dk/fmq8](http://kortlink.dk/fmq8)

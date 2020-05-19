@@ -55,7 +55,7 @@ Find en skabelon, hvor du kan skrive dit aktivitetshjul ind i her: kortlink.dk/g
 
 ## Aktivitetshjulet
 
-Se mere på https://sites.google.com/view/tof-fitness/aktivitetsudvikling?authuser=0
+Se mere på [sitet](https://sites.google.com/view/tof-fitness/aktivitetsudvikling?authuser=0)
 
 ## Aktivitetsgeneratoren
 
@@ -75,9 +75,8 @@ Opstil øvelsesmål for spillerne
 ↓
 Evaluer øvelserne og målet.
 
-Boldspilsdugen
+## Boldspilsdugen
 
+## SMTTE
 
-SMTTE
-
-Him og Hippe
+## Him og Hippe

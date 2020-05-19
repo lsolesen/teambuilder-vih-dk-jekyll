@@ -39,22 +39,24 @@ Der findes mange forskellige måder at lave adfærdsprofiler på. En lang række
 - Garuda
 - Belbin
 
-
 ## Vi bruger e-stimate
 
 Vi har brugt adfærdsprofilen fra *e-stimate* og det bærer beskrivelserne præg af.
 
 
 RØD
-Rød adfærdstendens vil gerne styre sine omgivelser og ønsker først og fremmest at opnå mål og resultater.
-GUL
-Gul adfærdstendens vil gerne være i centrum og er nytænkende, udadvendte og gode til at overbevise andre om deres ideer.
-GRØN
-Grøn adfærdstendens vil gerne samarbejde og har et menneskeligt fokus, er sociale og foretrækker harmoni i deres omgivelser.
-BLÅ
-Blå adfærdstendens søger kendte rammer og de er ombyggelige og har fokus på præcision og faglighed.
+:Rød adfærdstendens vil gerne styre sine omgivelser og ønsker først og fremmest at opnå mål og resultater.
 
-e-stimate mener at mennesket grundlæggende gennem evolutionen er drevet af nogle betingede drivere, som alle udviser i større eller mindre grad. Adfærdsprofilen tager udgangspunkt i drivere fra *self determination theory*:
+GUL
+:Gul adfærdstendens vil gerne være i centrum og er nytænkende, udadvendte og gode til at overbevise andre om deres ideer.
+
+GRØN
+:Grøn adfærdstendens vil gerne samarbejde og har et menneskeligt fokus, er sociale og foretrækker harmoni i deres omgivelser.
+
+BLÅ
+:Blå adfærdstendens søger kendte rammer og de er ombyggelige og har fokus på præcision og faglighed.
+
+[e-stimate](https://www.e-stimate.dk/) mener at mennesket grundlæggende gennem evolutionen er drevet af nogle betingede drivere, som alle udviser i større eller mindre grad. Adfærdsprofilen tager udgangspunkt i drivere fra *self determination theory*:
 
 - Agency
 - Autonomy
@@ -71,3 +73,5 @@ Adfærdsprofiler hjælper dig med at finde ud af, hvordan du handler i forskelli
 
 - Hvad skal du være opmærksom på ift. din egen adfærdsprofil? 
 - Hvis der er noget, du ikke er enig i eller i tvivl om, så spørg nogle af de andre, hvordan de ser dig?
+
+{% include feature_row type="left" %}

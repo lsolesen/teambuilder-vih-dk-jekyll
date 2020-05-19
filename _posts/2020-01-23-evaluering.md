@@ -34,7 +34,7 @@ Evaluering er ikke en let disciplin. Den kan gribes an på mange forskellige må
 
 Det er meget typisk at bruge et evalueringsskema. Spørgsmålene og oplægget inden folk udfylder skemaet er væsentligt ift. hvilket udbytte du får ud af svarene.
 
-Skabelon: kortlink.dk/gkza
+[Skabelon](http://kortlink.dk/gkza){: .btn .btn--large .btn--info }
 
 ## Fælles
 
@@ -44,10 +44,10 @@ Når man spørger ud i plenum, skal man have tænkt grundigt over, hvordan man g
 
 På forhånd skal du have gjort dig overvejelser om:
 
-Hvilke spørgsmål skal jeg stille?
-Rækkefølgen af spørgsmål
-Hvordan skal jeg slutte det igen?
-Hvordan samler jeg op?
+- Hvilke spørgsmål skal jeg stille?
+- Rækkefølgen af spørgsmål
+- Hvordan skal jeg slutte det igen?
+- Hvordan samler jeg op?
 
 ### Tre ord
 
@@ -61,7 +61,7 @@ Kan bruges som en lidt sjov starter til evaluering. Alle får udleveret et antal
 
 Skriveøvelse hvor man skriver alt det ned, man kan huske. Hver sætning starter med jeg husker i forhold til kurset. Formålet er at man konstant skriver. Det bliver næsten en poetisk tilgang. Man kan evt. afslutte i plenum med at nogen læser deres ‘jeg husker’ op.
 
-Skabelon: kortlink.dk/gcm6
+[Skabelon](http://kortlink.dk/gcm6){: .btn .btn--large .btn--info }
 
 ### Delphi (skabelon)
 
@@ -69,4 +69,4 @@ Delphi-metoden er et evalueringsværktøj, der både indeholder en skriftlig og 
 
 Den mundtlige del består af en struktureret samtale, hvor læreren sørger for, at alle kursister kommer til orde. I gennemgangen kan man fx bede kursisterne nævne de punkter, hvor de havde fuldt hus (at alle var enige). På et tidspunkt kan man også gennemgå de punkter, hvor der ikke er nogen, der er enige eller meget få, der er enige.
 
-Skabelon: kortlink.dk/gcm7
+[Skabelon](http://kortlink.dk/gcm7){: .btn .btn--large .btn--info }
