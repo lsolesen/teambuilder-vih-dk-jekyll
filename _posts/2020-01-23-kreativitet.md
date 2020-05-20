@@ -108,6 +108,26 @@ Beskrivelse af ideerne
 
 ![](/assets/images/u-teori.jpg)
 
+Til hvert enkelt projekt er det nødvendigt at skabe et helt unikt produkt som passer til målgruppen og som lever op til de forventninger, der bliver stillet. Men hvordan skabes et kreativt miljø? Hvordan åbner man op for kreativiteten og får skabt noget nyt?
+
+> ## Brainstorming
+>
+> Det er svært at definere den perfekte “måde”, hvorpå man kan få nye ideer. Det er fuldstændig individuelt, hvilke metoder der virker for en.
+
+## Brainstorming
+
+Det er svært at definere den perfekte “måde”, hvorpå man kan få nye ideer. Det er fuldstændig individuelt, hvilke metoder der virker for en. Et eksempel på en anerkendt metode, der kan laves i utallige versioner, er brainstorming. Brainstorming går ud på, at man skriver ALLE de ideer man kommer i tanke om ned f.eks. på en “post it”. Der er ikke noget, der er forkert. På den måde får man skabt mange ideer på kort tid, hvorefter man kan udvælge de bedste ideer eller sammensætte flere af ideerne. 
+
+## Papir på rundvisning
+
+Et andet eksempel på ideudvikling er at udlevere et papir til alle personer i en gruppe. Person 1 skriver nu en ide, hvorefter papiret sendes videre til person 2, som arbejder videre med ideen. Person 2 sender videre til person 3, som igen skriver videre. Alle i gruppen har på den måde hele tiden et stykke papir og en ide, der skal skrives videre på. Når papiret når til person 5 afsluttes ideerne og fremlægges for alle. Ved afslutnigen har man nu lige så mange ideer, som antallet af personer i gruppen. Det gode ved denne ide er, at alle tvinges til at samarbejde om flere ideer på en gang. Risikoen for at blive forelsket i sin egen ide formindskes.  
+
+## Sudoku- matrix 
+
+Det sidste og tredje eksempel på ideudvikling er sudoku matrix. Denne metode bruges, når man har nogle specifikke overordnede emner, der skal arbejdes videre på. De overordnede emner skrives på hver sin post-it og placeres spredt på en ellers tom sudoku plade. Det gælder så om at få de tomme felter omkring emnerne udfyldt med ideer passende til emnet på pladen. Øvelsen stopper, når der ikke er flere tomme felter. Denne metode er god, hvis man gerne vil have noget helt konkret på bordet til nogle allerede valgte emner/ideer, da metoden synliggør og opridser, hvor langt man er i ideudviklingsprocessen. 
+
+![](/assets/images/postit.jpg)
+
 ## Referencer
 
 Du kan finde en masse ideer til kreativitet på innovationsguiden.dk.
