@@ -4,6 +4,7 @@ var gulp = require("gulp");
 var newer = require("gulp-newer");
 var responsive = require("gulp-responsive");
 var size = require("gulp-size");
+const imagemin = require('gulp-imagemin');
 
 var paths = {};
 
@@ -24,17 +25,15 @@ paths.imagePattern =
 paths.imageFilesGlob = paths.imageFiles + paths.imagePattern;
   
 // Edit these paths
-paths.imageFilesActivitiesOriginals = paths.imageFiles + "/activity/originals" + paths.imagePattern;
+paths.imageFilesActivitiesOriginals = paths.sourceFolderName + "/src/images/activities/originals" + paths.imagePattern;
 paths.imageFilesActivitiesDestination = paths.imageFiles + "/activity/";
 
 // 'gulp images:optimize' -- optimize images
 gulp.task("images:optimize", () => {
   return gulp
     .src([
-      paths.imageFilesGlob,
-      "!" + paths.imageFilesActivitiesOriginals
-    ]) // do not process feature images
-    .pipe(newer(paths.imageFilesSite))
+      paths.imageFilesGlob
+    ])
     .pipe(
       imagemin(
         [
